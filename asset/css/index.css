@@ -1,0 +1,39 @@
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: orangered;
+}
+.container1{
+    width: 60%;
+    padding: 15px;
+    border-radius: 20px;
+    border: 2px solid orange;
+    margin-left: 150px;
+}
+.container2{
+    width: 10%;
+    padding: 10px;
+    margin-left: 80px;
+    background-color: orange;
+    color: black;
+    font-size: 22px;
+    border-radius: 20px;
+    border: 2px solid orange;
+}
+.container3{
+    list-style: none;
+    font-size: 40px;
+    margin-left: 650px;
+}
+.container4{
+    margin-left: 80px;
+    background-color: orange;
+    color: black;
+    font-size: 22px;
+    border-radius: 5px;
+    border: 2px solid orange;
+}
+.link a{
+    text-decoration: none;
+    color: red;
+}
